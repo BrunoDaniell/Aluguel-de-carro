@@ -23,7 +23,7 @@ class SolucaoSemInt
         Console.Write("Enter price per day: ");
         double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        RetalService retalService = new RetalService(pricePerHour, pricePerDay);
+        RetalService retalService = new RetalService(pricePerHour, pricePerDay, new BrazilTaxService());
         retalService.ProcessInvoice(carRental);
 
         Console.WriteLine("INVOICE");

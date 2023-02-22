@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SolucaoSemInterface.Service
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ITaxService
     {
-        public double Tax(Double amount)
+        public double Tax(double amount)
         {
             if (amount <= 100.0)
             {
@@ -19,8 +19,6 @@ namespace SolucaoSemInterface.Service
                 return amount * 0.15;
             }
         }
-
-
-
+       
     }
 }
