@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoSemInterface", "SolucaoSemInterface.csproj", "{19727029-672A-447A-A3CA-AED67A5F25EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19727029-672A-447A-A3CA-AED67A5F25EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19727029-672A-447A-A3CA-AED67A5F25EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19727029-672A-447A-A3CA-AED67A5F25EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19727029-672A-447A-A3CA-AED67A5F25EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DD7E30-1419-469A-BB98-F85B177A8593}
+	EndGlobalSection
+EndGlobal

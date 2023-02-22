@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\bin\Debug\net6.0\SolucaoSemInterface.exe
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\bin\Debug\net6.0\SolucaoSemInterface.deps.json
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\bin\Debug\net6.0\SolucaoSemInterface.runtimeconfig.json
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\bin\Debug\net6.0\SolucaoSemInterface.dll
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\bin\Debug\net6.0\SolucaoSemInterface.pdb
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.AssemblyInfo.cs
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.dll
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\refint\SolucaoSemInterface.dll
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.pdb
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\SolucaoSemInterface.genruntimeconfig.cache
+C:\Users\bruno\Desktop\PROJETOS\SolucaoSemInterface\obj\Debug\net6.0\ref\SolucaoSemInterface.dll
